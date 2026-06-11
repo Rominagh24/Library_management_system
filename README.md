@@ -6,7 +6,7 @@ A simple library management system built with Python.
 - Add new books
 - Search books
 - Remove books
-- Update book information
+- Show all books information
 
 ## Technologies
 - Python
